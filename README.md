@@ -37,7 +37,7 @@
 </a>
 <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VaishantMakan)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VaishantMakan) &nbsp; [![Github](https://img.shields.io/github/followers/vaishantmakan?label=Follow&style=social)](https://github.com/vaishantmakan)
 
 <!--
 **VaishantMakan/VaishantMakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
