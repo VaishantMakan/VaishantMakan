@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,  I'm [Vaishant Makan!](https://VaishantMakan.github.io)
+## Hey,  I'm [Vaishant Makan!](https://VaishantMakan.github.io)
 
 [![Linkedin Badge](https://img.shields.io/badge/-vaishantmakan-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishantmakan/)](https://www.linkedin.com/in/vaishantmakan/)
 [![Instagram Badge](https://img.shields.io/badge/-vaishantmakan-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vaishant_makan_/)](https://www.instagram.com/vaishant_makan_/)
