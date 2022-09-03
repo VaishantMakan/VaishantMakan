@@ -1,9 +1,9 @@
 ## Hey,  I'm [Vaishant Makan!](https://VaishantMakan.github.io)
 
 [![Linkedin Badge](https://img.shields.io/badge/-vaishantmakan-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishantmakan/)](https://www.linkedin.com/in/vaishantmakan/)
-[![Instagram Badge](https://img.shields.io/badge/-vaishantmakan-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vaishant_makan_/)](https://www.instagram.com/vaishant_makan_/)
 [![Twitter Badge](https://img.shields.io/badge/-vaishantmakan-black?style=plastic-square&logo=twitter&logoColor=blue&link=https://twitter.com/VaishantMakan)](https://twitter.com/VaishantMakan)
-<a href="mailto:avishrants@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="110" /></a>
+<a href="mailto:makan.vaishant@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="110" /></a>
+<!-- [![Instagram Badge](https://img.shields.io/badge/-vaishantmakan-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vaishant_makan_/)](https://www.instagram.com/vaishant_makan_/) -->
 
 ### About Me 🚀
 - 🎓  I'm a junior pursuing my Bachelors in Computer Science & Engineering at Thapar Institute Of Engineering And Technology. 
@@ -28,7 +28,7 @@
  
  ### ⚙️ &nbsp;GitHub Analytics
 <br>
-<a href="https://github.com/avishrantssh">
+<a href="https://github.com/vaishantmakan">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vaishantmakan&show_icons=true&theme=dark" alt="vaishantmakan" style="width:40%;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishantmakan&layout=compact&theme=dark" alt="vaishantmakan" style="width:40%;"/>
